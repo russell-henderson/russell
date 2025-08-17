@@ -1,0 +1,22 @@
+[
+  {
+    "step": "Discover",
+    "text": "Intake and references",
+    "number": "01"
+  },
+  {
+    "step": "Define",
+    "text": "Scope and structure",
+    "number": "02"
+  },
+  {
+    "step": "Design",
+    "text": "Explorations and proof",
+    "number": "03"
+  },
+  {
+    "step": "Deliver",
+    "text": "Finals and handoff",
+    "number": "04"
+  }
+]

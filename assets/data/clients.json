@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Acme Retail",
+    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "retail"
+  },
+  {
+    "name": "Mono Labs",
+    "logo": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "tech"
+  },
+  {
+    "name": "Urban Forge",
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "manufacturing"
+  },
+  {
+    "name": "Echo Studio",
+    "logo": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "creative"
+  },
+  {
+    "name": "Nova Collective",
+    "logo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "lifestyle"
+  },
+  {
+    "name": "Pivot Agency",
+    "logo": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "agency"
+  },
+  {
+    "name": "Zenith Brands",
+    "logo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "fashion"
+  },
+  {
+    "name": "Lumen Works",
+    "logo": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=200&h=100&fit=crop",
+    "url": "#",
+    "category": "consulting"
+  }
+]

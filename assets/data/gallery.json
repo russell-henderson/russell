@@ -1,0 +1,98 @@
+[
+  {
+    "src": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=600&fit=crop",
+    "alt": "Geometric logo design for boutique label with clean lines and modern typography",
+    "title": "Boutique Label Identity",
+    "category": "branding",
+    "client": "Acme Retail",
+    "description": "Complete brand identity system including logo, typography, and application guidelines"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&h=600&fit=crop",
+    "alt": "Editorial magazine spread with sophisticated typography and clean grid layout",
+    "title": "Monochrome Series",
+    "category": "editorial",
+    "client": "Echo Studio",
+    "description": "Editorial design system featuring custom typography and minimalist layouts"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+    "alt": "High-contrast product photography with dramatic lighting and clean composition",
+    "title": "Capsule Collection",
+    "category": "product",
+    "client": "Nova Collective",
+    "description": "Product photography and catalog design for sustainable fashion line"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&h=600&fit=crop",
+    "alt": "Campaign concept boards with strategic messaging and visual hierarchy",
+    "title": "Campaign Boards",
+    "category": "branding",
+    "client": "Mono Labs",
+    "description": "Strategic campaign development with comprehensive visual identity"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+    "alt": "Luxury packaging design with foil accents and sophisticated typography",
+    "title": "Packaging System",
+    "category": "product",
+    "client": "Urban Forge",
+    "description": "Complete packaging system with premium finishes and brand consistency"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
+    "alt": "Magazine cover design with bold typography and striking visual composition",
+    "title": "Magazine Cover",
+    "category": "editorial",
+    "client": "Pivot Agency",
+    "description": "Editorial cover design with custom illustration and typography"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&h=600&fit=crop",
+    "alt": "Logo design process showing sketches, iterations, and final mark",
+    "title": "Logo Process",
+    "category": "branding",
+    "client": "Zenith Brands",
+    "description": "Complete logo development from concept to final application"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
+    "alt": "Brand guidelines document with comprehensive visual standards",
+    "title": "Brand Guidelines",
+    "category": "branding",
+    "client": "Lumen Works",
+    "description": "Complete brand guidelines with logo usage, typography, and color systems"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800&h=600&fit=crop",
+    "alt": "Typography study showing custom font development and layout experiments",
+    "title": "Typography Study",
+    "category": "editorial",
+    "client": "Echo Studio",
+    "description": "Custom typography development with comprehensive character sets"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+    "alt": "Product photography setup with professional lighting and styling",
+    "title": "Photo Setup",
+    "category": "product",
+    "client": "Nova Collective",
+    "description": "Professional product photography with consistent visual style"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&h=600&fit=crop",
+    "alt": "Visual identity exploration showing logo variations and brand applications",
+    "title": "Identity Exploration",
+    "category": "branding",
+    "client": "Acme Retail",
+    "description": "Brand identity exploration with multiple concepts and applications"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&h=600&fit=crop",
+    "alt": "Double page spread with sophisticated editorial layout and typography",
+    "title": "Double Spread",
+    "category": "editorial",
+    "client": "Pivot Agency",
+    "description": "Editorial double spread with custom photography and layout design"
+  }
+]

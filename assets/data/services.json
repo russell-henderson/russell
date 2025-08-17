@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Identity",
+    "desc": "Logos, systems, guidelines",
+    "icon": "brand",
+    "url": "#work"
+  },
+  {
+    "title": "Editorial",
+    "desc": "Magazines, books, grids",
+    "icon": "layout",
+    "url": "#work"
+  },
+  {
+    "title": "Product",
+    "desc": "Shoot, retouch, listings",
+    "icon": "camera",
+    "url": "#work"
+  },
+  {
+    "title": "Campaign",
+    "desc": "Concepts, boards, rollout",
+    "icon": "strategy",
+    "url": "#work"
+  },
+  {
+    "title": "Digital",
+    "desc": "Web, apps, interfaces",
+    "icon": "screen",
+    "url": "#work"
+  },
+  {
+    "title": "Print",
+    "desc": "Packaging, collateral, signage",
+    "icon": "paper",
+    "url": "#work"
+  }
+]
